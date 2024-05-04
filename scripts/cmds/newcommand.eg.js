@@ -16,7 +16,7 @@
 
 module.exports = {
 	config: {
-		name: "commandName", // Name of command, it must be unique to identify with other commands
+		name: "bank", // Name of command, it must be unique to identify with other commands
 		version: "1.1", // Version of command
 		author: "NTKhang", // Author of command
 		countDown: 5, // Time to wait before executing command again (seconds)
@@ -25,7 +25,7 @@ module.exports = {
 			vi: "đây là mô tả ngắn của lệnh",
 			en: "this is short description of command"
 		}, // Short description of command
-		description: {
+		description: Shows your bank balance
 			vi: "đây là mô tả dài của lệnh",
 			en: "this is long description of command"
 		}, // Long description of command
