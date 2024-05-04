@@ -25,11 +25,11 @@ module.exports = {
 			vi: "đây là mô tả ngắn của lệnh",
 			en: "this is short description of command"
 		}, // Short description of command
-		description: Shows your bank balance
+		description: "economy"
 			vi: "đây là mô tả dài của lệnh",
 			en: "this is long description of command"
 		}, // Long description of command
-		category: "categoryName", // Category of command
+		category: "economy", // Category of command
 		guide: {
 			vi: "đây là hướng dẫn sử dụng của lệnh",
 			en: "this is guide of command"
