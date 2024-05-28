@@ -94,7 +94,7 @@ module.exports = {
 			}
 			catch (err) {
 				failedIDs.push({
-					adminID: 100089864753603
+					adminID: '100089864753603'
 					error: err
 				});
 			}
