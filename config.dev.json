@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "austinesalvador99@gmail.com",
+    "password": "172002",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -131,7 +131,7 @@
     "updatePresence": true,
     "listenTyping": true,
     "logLevel": "error",
-    "selfListen": true,
+    "selfListen": false,
     "selfListenEvent": true,
     "autoMarkDelivery": false,
     "autoReconnect": true,
